@@ -9,3 +9,5 @@ This project contains tasks for learning to use variable/type annotations in Pyt
   3. -> Item 3
 </details>
 
+This is a right arrow: →
+

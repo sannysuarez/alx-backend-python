@@ -1,2 +1,3 @@
-## Variable (type) Annotation
+## Variable (type) Annotations
+This project contains tasks for learning to use variable/type annotations in Python 3
 
